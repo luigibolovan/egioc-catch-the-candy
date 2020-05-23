@@ -2,7 +2,7 @@
 
 Uploaded [here](https://simmer.io/@luigib/candymonster)
 
-Just a simple game made with Unity for final project presentation.
+Just a simple game made with Unity.
 
 The player has to move the little monster left or right in order to catch all the candies that are falling.
 
